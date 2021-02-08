@@ -1,4 +1,4 @@
-City,Latitude,Longitude,Max Temperature (°F),Humidity (%),Cloudiness (%),Windspeed (mph),Country Code,Date & Time
+City,Latitude,Longitude,Max Temperature (°F),Humidity (%),Cloudiness (%),Wind Speed (mph),Country Code,Date & Time
 busselton,-33.65,115.3333,55.99,98,75,7.4,AU,1612810595
 kavaratti,10.5669,72.642,81.61,66,0,7.61,IN,1612810596
 riyadh,24.6877,46.7219,60.8,51,0,8.05,SA,1612810442

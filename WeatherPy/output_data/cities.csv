@@ -1,9 +1,10 @@
-City,Temperature (°F),Humidity (%),Cloudiness (%),Windspeed (mph)
-busselton,55.36,97,20,7.36
-hithadhoo,82.83,79,8,14.27
-katsuura,35.91,35,96,1.01
-jamestown,20.28,67,40,6.91
-ushuaia,62.6,59,0,10.36
-constitucion,67.51,67,27,8.7
-punta arenas,69.39,40,0,14.97
-sibolga,77.49,80,81,4.07
+City,Latitude,Longitude,Max Temperature (°F),Humidity (%),Cloudiness (%),Windspeed (mph),Country Code,Date & Time
+busselton,-33.65,115.3333,55.99,97,75,7.4,AU,1612809561
+kavaratti,10.5669,72.642,81.75,64,0,8.43,IN,1612809894
+riyadh,24.6877,46.7219,60.8,51,0,8.05,SA,1612809764
+bathsheba,13.2167,-59.5167,82.4,57,20,19.57,BB,1612809485
+elko,41.0002,-115.5012,50.0,14,1,13.8,US,1612809898
+hilo,19.7297,-155.09,71.01,52,1,8.05,US,1612809899
+carmen,18.6333,-91.8333,78.8,78,20,9.22,MX,1612809900
+butaritari,3.0707,172.7902,81.64,82,50,18.37,KI,1612809903
+jambi,-1.6,103.6167,75.16,94,100,3.83,ID,1612809904
